@@ -2,7 +2,6 @@ import os
 import time
 from imdb import IMDb
 
-# funkcja z argumentem np. c://
 def rename_folders(volume_name):
     ia = IMDb()
     folder_path = volume_name
